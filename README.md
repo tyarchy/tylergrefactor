@@ -3,8 +3,8 @@
 ## Description
 ### I was given an html and css file respectively and was asked to refactor the files so they are better organized incase anyone else has to update them.
   
-  Github repo: https://github.com/tyarchy/tylergrefactor
-  Deployed URL: https://tyarchy.github.io/tylergrefactor/
+  ##Github repo: https://github.com/tyarchy/tylergrefactor
+  ##Deployed URL: https://tyarchy.github.io/tylergrefactor/
   
   ![Screenshot (184)](https://user-images.githubusercontent.com/92496520/170183833-97640fac-52ef-44b5-ab33-50b84b63ef48.png)
 
