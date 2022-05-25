@@ -3,7 +3,8 @@
 ## Description
 ### I was given an html and css file respectively and was asked to refactor the files so they are better organized incase anyone else has to update them.
   
-  Git hub repo: https://github.com/tyarchy/tylergrefactor
+  Github repo: https://github.com/tyarchy/tylergrefactor
+  Deployed URL: https://tyarchy.github.io/tylergrefactor/
   
   ![Screenshot (184)](https://user-images.githubusercontent.com/92496520/170183833-97640fac-52ef-44b5-ab33-50b84b63ef48.png)
 
@@ -19,7 +20,7 @@
 
 
 ## Usage and Applications
-### Hopefully now the files are more readable and easier to navigate. nothing
+### Hopefully now the files are more readable and easier to navigate.
 
 <p>&nbsp;</p>  
 
@@ -29,7 +30,7 @@
 <p>&nbsp;</p>
 
 ## Installation
-### Start by going to my github, and clone the code in VScode, then run the website.  I'm happy to give the code to anyone who wants to pay to host too.
+### Start by going to my github, and clone the code in VScode, then run the website.  I'm happy to give the code to anyone who wants to pay to host this website.
 
 <p>&nbsp;</p>
   
